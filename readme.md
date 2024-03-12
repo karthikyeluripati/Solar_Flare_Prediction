@@ -31,26 +31,26 @@ The Dictionary-based model outperformed the Canonical Interval Forest (CIF) mode
 
 ## Output:
 
-(image.png)
+![alt text](image.png)
 
 Fig 1. Training CIF
  
-(image-1.png)
+![alt text](image-1.png)
 
 Fig 2.CIF Performance metrics
 
-(image-2.png)
+![alt text](image-2.png)
 
 Fig 3. Training Dictionary-based model
  
-(image-3.png)
+![alt text](image-3.png)
 
 Fig 4. Dictionary-based model Performance metrics
  
-(image-4.png)
+![alt text](image-4.png)
 
 Fig 5. Performance Analysis of CIF vs Dictionary-based model
  
-(image-5.png)
+![alt text](image-5.png)
 
 Fig6. Comparing the Training time of CIF vs Dictionary-based model
